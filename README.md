@@ -15,9 +15,10 @@ Algorithm for finding prime is super basic, just a 6k + 1 implementation, fast e
 Complexity for my finding prime function is fairly high could fix using myriad of methods to make faster.
 Overall, my code is scalable to a point, where after trying to find a couple thousand prime numbers it would run slow.
 
-my code runs to find 10 primary numbers at:
-real	0m0.054s
-user	0m0.012s
+speed my code runs to find first 10 primary numbers:
+
+real	0m0.054s\
+user	0m0.012s\
 sys	0m0.013s
 
 ## How to run
