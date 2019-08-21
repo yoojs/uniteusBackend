@@ -22,11 +22,10 @@ user	0m0.012s\
 sys	0m0.013s
 
 ## How to run
-Open terminal (in MacOSX)
-move to folder where files exist
-Download Python 2.7
-and run "python backendCode.py -i 10"
-in terminal
+Open terminal (in MacOSX)\
+move to folder where files exist\
+Download Python 2.7\
+and run "python backendCode.py -i 10" in terminal
 
 output should be:
 
